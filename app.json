@@ -1,7 +1,7 @@
 {
 	"name": "SystemYA Proxy",
 	"description": "SystemYA's flagship proxy",
-	"repository": "https://github.com/sysce/proxy",
+	"repository": "https://github.com/avinashkulshrestha/proxy",
 	"logo": "https://sys32.dev/favicon.ico",
 	"keywords": ["node", "systemya", "proxy", "unblocker"]
 }
